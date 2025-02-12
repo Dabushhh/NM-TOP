@@ -3,7 +3,7 @@ game 'gta5'
 lua54 'on'
 
 author 'Dabush'
-description 'Info Script By Dabush!'
+description 'TOP HUD Script By Dabush!'
 version '1.0.0'
 
 ui_page 'html/index.html'
